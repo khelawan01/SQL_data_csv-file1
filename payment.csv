@@ -1,0 +1,16 @@
+customer_id,customer_name,amount,mode,payment_date
+1,Ankit Singh,60,Cash,24-09-2020
+2,Human Singh,30,Credit Card,27-04-2020
+3,Heera Singh,90,Credit Card,07-07-2020
+4,Lakhan Singh,50,Debit Crad,12-02-2020
+5,Harsh Pande,40,Mobile Payment,20-11-2020
+6,Priyanshu,40,Debit Crad,28-06-2021
+7,Lokesh Khande,10,Cash,25-08-2021
+8,Aand Singh,30,Mobile Payment,17-06-2021
+9,Aman ,80,Cash,25-08-2021
+10,Kamal Singh,50,Mobile Payment,03-11-2021
+11,Aditya ,70,Cash,01-11-2022
+12,Bhumit,60,Netbanking,11-09-2022
+13,Ashit Rana,30,Netbanking,10-12-2022
+14,Khelawan Singh,50,Credit Card,14-05-2022
+15,Abhishek Yadav,30,Credit Card,25-09-2022
